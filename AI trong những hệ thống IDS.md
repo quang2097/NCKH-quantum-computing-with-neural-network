@@ -1,6 +1,6 @@
 # Thông tin cần biết.
 * [giới thiệu IDS](/giới%20thiệu%20IDS.md)
-* [AI là gì](/giới%20thiệu%20về%20AI.md)
+* [AI là gì](/giới%20thiệu%20về%20AI.md) (cơ bản)
 
 # AI trong hệ thống IDS (Intrusion detection system).
 * Sử dụng trí tuệ nhân tạo (AI) và mô hình học sâu (deep learning) trong những hệ thống IDS đã thay đổi cốt lõi của những hệ thống IDS từ việc tìm kiếm những nguy cơ đã được biết đến tới việc xác nhận những cuộc tấn công phức tạp chưa được biết đến.
