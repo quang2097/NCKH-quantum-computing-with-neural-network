@@ -1,5 +1,5 @@
 # Giới thiệu IDS.
-- IDS (Intrusion detection system) hoặc là hệ thống phát hiện xâm nhập là hệ thống ròa sát mạng hoặc những hệ thống (phần mềm) để tìm những hành vi độc hại hoặc những vi phạm điều lệ (policy violation) sau đó thông báo cho các administrator khi hành vi khả nghi được phát hiện.
+- IDS (Intrusion detection system) hoặc hệ thống phát hiện xâm nhập là hệ thống ròa sát mạng hoặc những hệ thống (phần mềm) để tìm những hành vi độc hại hoặc những vi phạm điều lệ (policy violation) sau đó thông báo cho các administrator khi hành vi khả nghi được phát hiện.
 
 ## Phận loại những hệ thống IDS. [link](https://www.stamus-networks.com/ids-detection-types#:~:text=What%20are%20the%20two%20main,points%20within%20a%20computer%20network.)
 * Phân loại bởi nguồn thông tin.
