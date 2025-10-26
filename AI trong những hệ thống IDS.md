@@ -23,4 +23,4 @@
 - Phức tạp và khó giải thích: AI có thể được coi là hộp đen chứa thông tin trong dạng con người không thể hiểu được khiến cho độ phức tạp trong việc xác nhận và sửa lỗi do AI gây ra khó khăn và phức tạp.
 - Sự đòi hỏi tài nguyên máy tính: Sự huấn luyện của những mô hình AI đòi hỏi một lượng lớn tài nguyên máy tính (GPU hoặc graphics processing unit) làm tăng chi phí một cách đáng kể.
 
-## Phương pháp đề ra để áp dụng ai để tối ưu ưu điểm và tối thiểu nhược điểm.
+## Phương pháp đề ra để áp dụng AI để tối ưu ưu điểm và tối thiểu nhược điểm.
